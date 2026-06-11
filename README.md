@@ -13,6 +13,13 @@
 
 🎥 دموی آنلاین پروژه (در حال آماده‌سازی...)
 
+📸 پیش‌نمایش:
+
+![Preview](./public/images/screenshot1.png)
+![Preview](./public/images/screenshot2.png)
+![Preview](./public/images/screenshot3.png)
+
+
 
 ## 🚀 تکنولوژی‌ها و ابزارهای استفاده‌شده
 
