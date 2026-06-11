@@ -43,7 +43,7 @@
 1. کلون کردن ریپازیتوری:
 
 ```bash
-git clone https://github.com/parsamehrpooshan/Weblog-With-GraphQL.git
+git clone https://github.com/parsamehrpooshan/Weblog.git
 ```
 
 2. نصب پکیج‌ها:
